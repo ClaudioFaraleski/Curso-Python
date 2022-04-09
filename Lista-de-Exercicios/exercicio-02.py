@@ -1,7 +1,13 @@
 '''
-Crie um Algoritimo em Python que imprima na Tela a  seguinte mensagem
+Crie um Algoritimo em Python onde Imprima na tela uma Mensagem
 
-"Estou aprendendo a programar em Python !!!"
+"Python na Pratica"
+
+a frase devera aparecer assim
+
+Python-na-Pratica
+
+usando algumns argumentos dentro da função print
 
 Obs: Tente fazer sem olhar a resolução do problema aquela velha frase
 " errando que se aprende "
