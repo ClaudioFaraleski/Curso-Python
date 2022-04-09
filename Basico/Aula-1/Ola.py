@@ -16,8 +16,8 @@ segue os links
 # Visual Stduio Code: https://code.visualstudio.com/
 
 
-o link abaixo e da documentação do python aonde vocês poderam tirar todas suas duvidas sobre a instalação do python e
-demais conteudos como bibliotecas ,funções e muito mais não deixem de acessar.
+o link abaixo e da documentação do python aonde vocês poderam tirar todas suas duvidas sobre os demais conteudos
+como bibliotecas ,funções e muito mais não deixem de acessar.
 
 https://docs.python.org/3/
 
