@@ -34,6 +34,10 @@ mas porque é divertido de programar."
 --
 Linus Torvalds
 
+quer saber mais sobre a historia da linguagem mais famosa do mundo, quando surgiu,quem inventou segue o link abaixo
+para conhecer um pouco mais e ficar por dentro
+
+https://pt.wikipedia.org/wiki/Python#:~:text=O%20Python%20foi%20concebido%20no,operacional%20Amoeba%20atrav%C3%A9s%20de%20scripts.
 
 
 Autor : Claudio Faraleski Junior
