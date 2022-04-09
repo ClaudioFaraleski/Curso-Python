@@ -15,7 +15,7 @@ https://www.python.org/downloads/
 Instalando o Python no windows
 https://python.org.br/instalacao-windows/
 
-no operacional linux ja vem instalado por padrão basta instalar a IDE ou usar o terminal
+no Sistema operacional linux ja vem instalado por padrão basta instalar a IDE ou usar o terminal
 
 você pode usar as mais diversas IDE para construir seus codigos mais utilizados é o Pycharm e Visual Studio Code
 segue os links
