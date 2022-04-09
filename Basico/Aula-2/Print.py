@@ -4,7 +4,7 @@ Nessa aula vamos definir a função print para imprimir o resultado na tela
 
 existe tres metodos que você pode usar para imprimir o  resultado
 
-rode o programa e veja o resultado
+Abra sua IDE e rode o programa e veja o resultado
 
 vamos ver na Pratica !!!
 
