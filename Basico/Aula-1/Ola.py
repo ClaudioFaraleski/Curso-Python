@@ -9,6 +9,14 @@ esse curso foi criado pora quem quer aprender a linguagem mais usada no mercado
 
 a versão do Python Utilizado nesse curso sera a 3.8
 
+Segue o link do download do python
+https://www.python.org/downloads/
+
+Instalando o Python no windows
+https://python.org.br/instalacao-windows/
+
+no operacional linux ja vem instalado por padrão basta instalar a IDE ou usar o terminal
+
 você pode usar as mais diversas IDE para construir seus codigos mais utilizados é o Pycharm e Visual Studio Code
 segue os links
 
