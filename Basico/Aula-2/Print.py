@@ -22,4 +22,4 @@ print(f'Seja bem vindo ao curso de {mensagem}')
 print('Seja bem vindo ao curso de {}'.format(mensagem))
 
 # Você observou que usando os 3 metodos o resultado foi igual para todos ao longo do curso iremos usar os 3 metodos
-# para que você consigar adquirir conhecimento. vamos praticar !!!
+# para que você consiga adquirir conhecimento. vamos praticar !!!
